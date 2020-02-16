@@ -2,7 +2,12 @@ DOCKERFILE SOURCE: https://medium.com/better-programming/how-to-deploy-a-node-ap
 
 Phase.io SOURCE: http://phaser.io/tutorials/making-your-first-phaser-3-game/part1
 
-RUN:
+
+EBS + Docker SOURCE: https://medium.com/@sommershurbaji/deploying-a-docker-container-to-aws-with-elastic-beanstalk-28adfd6e7e95
+
+
+----------------
+RUN Docker image locally:
 
 docker build --tag=pegabufficorn .
 
